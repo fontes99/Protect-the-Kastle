@@ -5,11 +5,11 @@ using UnityEngine;
 public class DragonBehav : SteerableBehaviour
 {
 
-    GameManager gm;
-
     bool alive;
 
     Animator anim;
+
+    Rigidbody2D rb;
 
     float maxHealth = 70;
 
@@ -21,23 +21,23 @@ public class DragonBehav : SteerableBehaviour
 
     void Start(){
 
-        gm = GameManager.GetInstance();
         anim = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
+
         alive = true;
 
     }
 
     private void FixedUpdate()
     {
-        if (gm.gameState == GameManager.GameState.GAME) return;
-        
         if (alive){
             angle += 0.1f;
             Mathf.Clamp(angle, 0.0f, 2.0f * Mathf.PI);
             float x = Mathf.Sin(angle);
-            float y = Mathf.Cos(angle);
+            // float y = Mathf.Cos(angle);
 
-            Thrust(x, y);
+            Thrust(x, -1);
+
         }
         
     }

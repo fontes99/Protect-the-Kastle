@@ -12,14 +12,15 @@ public class UI_Endgame : MonoBehaviour
     private void OnEnable()
     {
         gm = GameManager.GetInstance();
+        Cursor.visible = true;
 
-        if(gm.hp < 0)
+        if(gm.hp <= 0)
         {
-            message.text = "Game Over";
+            message.text = "GAME OVER";
         }
         else
         {
-            message.text = "You Win! The Kastle is safe!";
+            message.text = "YOU WIN! The Kastle is safe!";
         }
     }
 

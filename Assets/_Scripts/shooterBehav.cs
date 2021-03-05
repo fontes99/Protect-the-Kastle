@@ -5,8 +5,6 @@ using UnityEngine;
 public class shooterBehav : MonoBehaviour
 {
 
-    GameManager gm;
-
     public GameObject arrow;
     public Transform firepoint;
 
@@ -27,7 +25,6 @@ public class shooterBehav : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        gm = GameManager.GetInstance();
         alive = true;
         anim = GetComponent<Animator>();
     }
@@ -35,8 +32,6 @@ public class shooterBehav : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (gm.gameState != GameManager.GameState.GAME) return;
-        
         if (alive) {
             if (transform.position.y > 3){
                 Move();

@@ -70,6 +70,7 @@ public class PlayerController : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME) {
             gm.ChangeState(GameManager.GameState.PAUSE);
             Cursor.visible = true;
+            Time.timeScale = 0f;
 
         }
 
@@ -80,7 +81,6 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (gm.gameState != GameManager.GameState.GAME) return;
 
         if (alive) {
             Move();

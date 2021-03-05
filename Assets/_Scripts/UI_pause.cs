@@ -15,6 +15,7 @@ public class UI_pause : MonoBehaviour
     {
         gm.ChangeState(GameManager.GameState.GAME);
         Cursor.visible = false;
+        Time.timeScale = 1f;
     }
 
     public void Inicio()

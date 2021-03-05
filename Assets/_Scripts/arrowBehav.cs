@@ -9,14 +9,13 @@ public class arrowBehav : MonoBehaviour
 
     public int dmg = 10;
 
-    GameManager gm;
-
     // ----------------------- 
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        gm = GameManager.GetInstance();
+    
+        rb.velocity = -transform.up * speed;
     }
 
     void OnTriggerEnter2D(Collider2D col){
@@ -24,14 +23,9 @@ public class arrowBehav : MonoBehaviour
     }
 
     void Update() {
-        if (gm.gameState == GameManager.GameState.GAME) {
     
-            rb.velocity = -transform.up * speed;
-
-            if (transform.position.y < -6){
-                Destroy(gameObject);
-            }
+        if (transform.position.y < -6){
+            Destroy(gameObject);
         }
-        else rb.velocity = new Vector2(0f, 0f);
     }
 }

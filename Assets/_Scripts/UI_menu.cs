@@ -8,12 +8,14 @@ public class UI_menu : MonoBehaviour
 
     void OnEnable(){
         gm = GameManager.GetInstance();
+        Time.timeScale = 0f;
     }
 
     public void Comecar(){
 
         gm.ChangeState(GameManager.GameState.GAME);
         Cursor.visible = false;
+        Time.timeScale = 1f;
 
     }
 
