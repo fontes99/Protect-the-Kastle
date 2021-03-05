@@ -1,0 +1,5300 @@
+fileFormatVersion: 2
+guid: c1f1e3d9c3379f34fb5e10d07b96c3ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8841744151301606176
+    second: mage_dmg_0
+  - first:
+      213: 4413145698422417000
+    second: mage_dmg_1
+  - first:
+      213: 8767759758048634603
+    second: mage_dmg_2
+  - first:
+      213: 7626848233608307772
+    second: mage_dmg_3
+  - first:
+      213: 3564815438646183377
+    second: mage_dmg_4
+  - first:
+      213: 1373661630208265764
+    second: mage_dmg_5
+  - first:
+      213: -5509127506121871284
+    second: mage_dmg_6
+  - first:
+      213: -1779123998958556093
+    second: mage_dmg_7
+  - first:
+      213: 8523968998168847897
+    second: mage_dmg_8
+  - first:
+      213: 1175856971208859115
+    second: mage_dmg_9
+  - first:
+      213: 3608088947901216837
+    second: mage_dmg_10
+  - first:
+      213: 4827252849011614163
+    second: mage_dmg_11
+  - first:
+      213: 22564191579612506
+    second: mage_dmg_12
+  - first:
+      213: 2467340103675755061
+    second: mage_dmg_13
+  - first:
+      213: -2257156842394873807
+    second: mage_dmg_14
+  - first:
+      213: -5121460669108336138
+    second: mage_dmg_15
+  - first:
+      213: 1206460635610304486
+    second: mage_dmg_16
+  - first:
+      213: -4450014886940453674
+    second: mage_dmg_17
+  - first:
+      213: 8558537295080585224
+    second: mage_dmg_18
+  - first:
+      213: 8356092890559285242
+    second: mage_dmg_19
+  - first:
+      213: 5659396258428500726
+    second: mage_dmg_20
+  - first:
+      213: -9020465536084672796
+    second: mage_dmg_21
+  - first:
+      213: 6291734890705171306
+    second: mage_dmg_22
+  - first:
+      213: 1213166789665753457
+    second: mage_dmg_23
+  - first:
+      213: 1289738270733857813
+    second: mage_dmg_24
+  - first:
+      213: -6993707466454670778
+    second: mage_dmg_25
+  - first:
+      213: -7443453230150154863
+    second: mage_dmg_26
+  - first:
+      213: -7444844044900813473
+    second: mage_dmg_27
+  - first:
+      213: -9037586315085203484
+    second: mage_dmg_28
+  - first:
+      213: -2045245913952889346
+    second: mage_dmg_29
+  - first:
+      213: 8981191497110008350
+    second: mage_dmg_30
+  - first:
+      213: 2611301054933654283
+    second: mage_dmg_31
+  - first:
+      213: 3800979273432088284
+    second: mage_dmg_32
+  - first:
+      213: -5659635097858965650
+    second: mage_dmg_33
+  - first:
+      213: 5125608190052223027
+    second: mage_dmg_34
+  - first:
+      213: -475751443535840728
+    second: mage_dmg_35
+  - first:
+      213: 6343912777633243081
+    second: mage_dmg_36
+  - first:
+      213: 7339987526375752703
+    second: mage_dmg_37
+  - first:
+      213: -1988566470352237515
+    second: mage_dmg_38
+  - first:
+      213: -2452484854882598338
+    second: mage_dmg_39
+  - first:
+      213: -5128221307689303183
+    second: mage_dmg_40
+  - first:
+      213: -8723847266401774211
+    second: mage_dmg_41
+  - first:
+      213: -5980384423155752602
+    second: mage_dmg_42
+  - first:
+      213: -8310644840441631943
+    second: mage_dmg_43
+  - first:
+      213: 3857492678394428892
+    second: mage_dmg_44
+  - first:
+      213: 3177377158104621951
+    second: mage_dmg_45
+  - first:
+      213: 7822658296644244772
+    second: mage_dmg_46
+  - first:
+      213: 3248164394908319496
+    second: mage_dmg_47
+  - first:
+      213: 4663905431838147052
+    second: mage_dmg_48
+  - first:
+      213: -1456373087964031498
+    second: mage_dmg_49
+  - first:
+      213: 6263560786365269583
+    second: mage_dmg_50
+  - first:
+      213: 8358511838225478043
+    second: mage_dmg_51
+  - first:
+      213: -5335039657549295064
+    second: mage_dmg_52
+  - first:
+      213: 4330896296854266258
+    second: mage_dmg_53
+  - first:
+      213: -5520336930314573349
+    second: mage_dmg_54
+  - first:
+      213: 1796614613394715087
+    second: mage_dmg_55
+  - first:
+      213: 8924121620632782729
+    second: mage_dmg_56
+  - first:
+      213: 8178868345962165976
+    second: mage_dmg_57
+  - first:
+      213: 8387271829037614880
+    second: mage_dmg_58
+  - first:
+      213: -1664224987750995288
+    second: mage_dmg_59
+  - first:
+      213: 6646910670407900288
+    second: mage_dmg_60
+  - first:
+      213: -2195633316935477339
+    second: mage_dmg_61
+  - first:
+      213: -2071225098069547118
+    second: mage_dmg_62
+  - first:
+      213: 6343647210927070232
+    second: mage_dmg_63
+  - first:
+      213: -790019552897449390
+    second: mage_dmg_64
+  - first:
+      213: -8515001972593661409
+    second: mage_dmg_65
+  - first:
+      213: -1060128805869239360
+    second: mage_dmg_66
+  - first:
+      213: 537449532848991830
+    second: mage_dmg_67
+  - first:
+      213: -7361794902823520275
+    second: mage_dmg_68
+  - first:
+      213: -4936357161735830645
+    second: mage_dmg_69
+  - first:
+      213: -8850709060720771734
+    second: mage_dmg_70
+  - first:
+      213: -456331480587529718
+    second: mage_dmg_71
+  - first:
+      213: 3696511445452946798
+    second: mage_dmg_72
+  - first:
+      213: -7208529629930938410
+    second: mage_dmg_73
+  - first:
+      213: 9103145118285259257
+    second: mage_dmg_74
+  - first:
+      213: 9062769621618889874
+    second: mage_dmg_75
+  - first:
+      213: -2767543385924736068
+    second: mage_dmg_76
+  - first:
+      213: 4980833371439560576
+    second: mage_dmg_77
+  - first:
+      213: -1324195077242192880
+    second: mage_dmg_78
+  - first:
+      213: -8043912764832619185
+    second: mage_dmg_79
+  - first:
+      213: 1291020321267009786
+    second: mage_dmg_80
+  - first:
+      213: 5592515540141734423
+    second: mage_dmg_81
+  - first:
+      213: -5994830581539992464
+    second: mage_dmg_82
+  - first:
+      213: 5528165174031014407
+    second: mage_dmg_83
+  - first:
+      213: -1528794587763603319
+    second: mage_dmg_84
+  - first:
+      213: -6733514736909774261
+    second: mage_dmg_85
+  - first:
+      213: 866043940444137347
+    second: mage_dmg_86
+  - first:
+      213: 4172525225046599898
+    second: mage_dmg_87
+  - first:
+      213: 3033795902885972470
+    second: mage_dmg_88
+  - first:
+      213: 1982741359800741014
+    second: mage_dmg_89
+  - first:
+      213: -1143247034117737467
+    second: mage_dmg_90
+  - first:
+      213: -4434713904628818948
+    second: mage_dmg_91
+  - first:
+      213: -8100364255069021715
+    second: mage_dmg_92
+  - first:
+      213: -1401671137047589307
+    second: mage_dmg_93
+  - first:
+      213: 1988319519010515855
+    second: mage_dmg_94
+  - first:
+      213: -6786952706766586679
+    second: mage_dmg_95
+  - first:
+      213: 7409778294461746894
+    second: mage_dmg_96
+  - first:
+      213: 9096711609134994940
+    second: mage_dmg_97
+  - first:
+      213: 2877776945702919903
+    second: mage_dmg_98
+  - first:
+      213: -7005259500487593122
+    second: mage_dmg_99
+  - first:
+      213: -7901257161206155801
+    second: mage_dmg_100
+  - first:
+      213: -2998198179426068867
+    second: mage_dmg_101
+  - first:
+      213: -1771262338067651489
+    second: mage_dmg_102
+  - first:
+      213: -1816694509769203104
+    second: mage_dmg_103
+  - first:
+      213: 4533480378551484938
+    second: mage_dmg_104
+  - first:
+      213: -5737553716519108873
+    second: mage_dmg_105
+  - first:
+      213: 2329626835778766540
+    second: mage_dmg_106
+  - first:
+      213: 2460539150728655062
+    second: mage_dmg_107
+  - first:
+      213: 6785310734475107839
+    second: mage_dmg_108
+  - first:
+      213: 1634297247795668915
+    second: mage_dmg_109
+  - first:
+      213: -837438117324159193
+    second: mage_dmg_110
+  - first:
+      213: 2062579608455530105
+    second: mage_dmg_111
+  - first:
+      213: 3766053250998083191
+    second: mage_dmg_112
+  - first:
+      213: 9045346395104115666
+    second: mage_dmg_113
+  - first:
+      213: -3261552366900932825
+    second: mage_dmg_114
+  - first:
+      213: -2798019124150773866
+    second: mage_dmg_115
+  - first:
+      213: -6059205788974090171
+    second: mage_dmg_116
+  - first:
+      213: -5495471936504022585
+    second: mage_dmg_117
+  - first:
+      213: 7228051375035893779
+    second: mage_dmg_118
+  - first:
+      213: -419673668214913528
+    second: mage_dmg_119
+  - first:
+      213: 638698962657432681
+    second: mage_dmg_120
+  - first:
+      213: 5643163246328730836
+    second: mage_dmg_121
+  - first:
+      213: -7842117337065553451
+    second: mage_dmg_122
+  - first:
+      213: 6071307562772696425
+    second: mage_dmg_123
+  - first:
+      213: -3663418279070105818
+    second: mage_dmg_124
+  - first:
+      213: 820191856299830164
+    second: mage_dmg_125
+  - first:
+      213: -3411307773008434880
+    second: mage_dmg_126
+  - first:
+      213: -8282165937239267610
+    second: mage_dmg_127
+  - first:
+      213: -5633661648586302849
+    second: mage_dmg_128
+  - first:
+      213: 365091836692070186
+    second: mage_dmg_129
+  - first:
+      213: -4878886525990595040
+    second: mage_dmg_130
+  - first:
+      213: -6198396540673497585
+    second: mage_dmg_131
+  - first:
+      213: 6131406771095558955
+    second: mage_dmg_132
+  - first:
+      213: -1646300158092117566
+    second: mage_dmg_133
+  - first:
+      213: 4491653856518248932
+    second: mage_dmg_134
+  - first:
+      213: -578788951430448851
+    second: mage_dmg_135
+  - first:
+      213: 3173773334201382990
+    second: mage_dmg_136
+  - first:
+      213: 2462940546697896399
+    second: mage_dmg_137
+  - first:
+      213: -3605441195528583909
+    second: mage_dmg_138
+  - first:
+      213: 5616075122286806778
+    second: mage_dmg_139
+  - first:
+      213: -5654066085522108823
+    second: mage_dmg_140
+  - first:
+      213: -7441011223111079345
+    second: mage_dmg_141
+  - first:
+      213: -4969035453822210459
+    second: mage_dmg_142
+  - first:
+      213: -7929108353081707375
+    second: mage_dmg_143
+  - first:
+      213: -6946850118220931930
+    second: mage_dmg_144
+  - first:
+      213: -8353084896972772355
+    second: mage_dmg_145
+  - first:
+      213: -364712546144944174
+    second: mage_dmg_146
+  - first:
+      213: 6440881834652581184
+    second: mage_dmg_147
+  - first:
+      213: 4419562783969934416
+    second: mage_dmg_148
+  - first:
+      213: 4211964516707245679
+    second: mage_dmg_149
+  - first:
+      213: -5943220916947582759
+    second: mage_dmg_150
+  - first:
+      213: -6967615272256516334
+    second: mage_dmg_151
+  - first:
+      213: 2719848766448063710
+    second: mage_dmg_152
+  - first:
+      213: 3460690953394233742
+    second: mage_dmg_153
+  - first:
+      213: -7835427721153456800
+    second: mage_dmg_154
+  - first:
+      213: 7582981716089194851
+    second: mage_dmg_155
+  - first:
+      213: 2256438666855018707
+    second: mage_dmg_156
+  - first:
+      213: -6095799384419376133
+    second: mage_dmg_157
+  - first:
+      213: 4134008373819037555
+    second: mage_dmg_158
+  - first:
+      213: -5782710723892797826
+    second: mage_dmg_159
+  - first:
+      213: -6973558833334898130
+    second: mage_dmg_160
+  - first:
+      213: 8109080054126259627
+    second: mage_dmg_161
+  - first:
+      213: -834968273687113531
+    second: mage_dmg_162
+  - first:
+      213: -6616962218508870674
+    second: mage_dmg_163
+  - first:
+      213: 7931884460211604754
+    second: mage_dmg_164
+  - first:
+      213: 5563533627718904519
+    second: mage_dmg_165
+  - first:
+      213: 7630937022640597818
+    second: mage_dmg_166
+  - first:
+      213: -5585856156487984085
+    second: mage_dmg_167
+  - first:
+      213: -8441996887197991716
+    second: mage_dmg_168
+  - first:
+      213: 5758763692958955870
+    second: mage_dmg_169
+  - first:
+      213: 3132581952863894915
+    second: mage_dmg_170
+  - first:
+      213: 6138754752921513205
+    second: mage_dmg_171
+  - first:
+      213: 5101440955866590275
+    second: mage_dmg_172
+  - first:
+      213: 6845352758369986698
+    second: mage_dmg_173
+  - first:
+      213: 6972859921918673507
+    second: mage_dmg_174
+  - first:
+      213: 8415748656518075678
+    second: mage_dmg_175
+  - first:
+      213: 3240608677238966445
+    second: mage_dmg_176
+  - first:
+      213: -8443586643079451192
+    second: mage_dmg_177
+  - first:
+      213: 1650676983698657567
+    second: mage_dmg_178
+  - first:
+      213: -2889381366891755371
+    second: mage_dmg_179
+  - first:
+      213: -4071700266687951954
+    second: mage_dmg_180
+  - first:
+      213: -3439804397959574460
+    second: mage_dmg_181
+  - first:
+      213: -7373109779073706433
+    second: mage_dmg_182
+  - first:
+      213: 684336297386306782
+    second: mage_dmg_183
+  - first:
+      213: 8955843600860666578
+    second: mage_dmg_184
+  - first:
+      213: 3003398315065372051
+    second: mage_dmg_185
+  - first:
+      213: 3042465099107483275
+    second: mage_dmg_186
+  - first:
+      213: -7079333525961614545
+    second: mage_dmg_187
+  - first:
+      213: 3500433102571489093
+    second: mage_dmg_188
+  - first:
+      213: -7253445811623042340
+    second: mage_dmg_189
+  - first:
+      213: 1912287202674063960
+    second: mage_dmg_190
+  - first:
+      213: -1966469998930114849
+    second: mage_dmg_191
+  - first:
+      213: 6594814288813892372
+    second: mage_dmg_192
+  - first:
+      213: 4305230994225132854
+    second: mage_dmg_193
+  - first:
+      213: -6185264800118824500
+    second: mage_dmg_194
+  - first:
+      213: 5553543743877598515
+    second: mage_dmg_195
+  - first:
+      213: 4635682024910835684
+    second: mage_dmg_196
+  - first:
+      213: 9103431705498589129
+    second: mage_dmg_197
+  - first:
+      213: -203849048752212746
+    second: mage_dmg_198
+  - first:
+      213: 7659730796635691999
+    second: mage_dmg_199
+  - first:
+      213: 4794215144405157898
+    second: mage_dmg_200
+  - first:
+      213: -1643848779886976157
+    second: mage_dmg_201
+  - first:
+      213: 1412691132927956933
+    second: mage_dmg_202
+  - first:
+      213: -2100362539502012747
+    second: mage_dmg_203
+  - first:
+      213: -1263664120939002386
+    second: mage_dmg_204
+  - first:
+      213: -8310583106997228377
+    second: mage_dmg_205
+  - first:
+      213: 5882515079089058519
+    second: mage_dmg_206
+  - first:
+      213: 5787819045887612082
+    second: mage_dmg_207
+  - first:
+      213: -3432506310400070023
+    second: mage_dmg_208
+  - first:
+      213: -4486272407818355608
+    second: mage_dmg_209
+  - first:
+      213: 1899060670612127972
+    second: mage_dmg_210
+  - first:
+      213: -2099925170249363706
+    second: mage_dmg_211
+  - first:
+      213: -9150104773433396931
+    second: mage_dmg_212
+  - first:
+      213: -5253594685229040623
+    second: mage_dmg_213
+  - first:
+      213: 673729968339714232
+    second: mage_dmg_214
+  - first:
+      213: 3205707704103383069
+    second: mage_dmg_215
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage_dmg_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b4835c57f24ba70800000000000000
+      internalID: 8841744151301606176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e28081a4ae3d30800000000000000
+      internalID: 4413145698422417000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6247edb075da970800000000000000
+      internalID: 8767759758048634603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34e9084f0208d960800000000000000
+      internalID: 7626848233608307772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5855611c4c87130800000000000000
+      internalID: 3564815438646183377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ec52689f9301310800000000000000
+      internalID: 1373661630208265764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b547c8b5ab83b0800000000000000
+      internalID: -5509127506121871284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce3be26284f47e0800000000000000
+      internalID: -1779123998958556093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916eb4454a83b4670800000000000000
+      internalID: 8523968998168847897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 230
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed12937fab715010800000000000000
+      internalID: 1175856971208859115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 230
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5483aa918c1821230800000000000000
+      internalID: 3608088947901216837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1645ae3e8ddf240800000000000000
+      internalID: 4827252849011614163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 230
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a552fbf330a205000800000000000000
+      internalID: 22564191579612506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a3ba370c0cd3220800000000000000
+      internalID: 2467340103675755061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 230
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13016be8fc7fca0e0800000000000000
+      internalID: -2257156842394873807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 230
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9c9a6f7aaece8b0800000000000000
+      internalID: -5121460669108336138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 230
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef4b055e853eb010800000000000000
+      internalID: 1206460635610304486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4d6ba990f5e32c0800000000000000
+      internalID: -4450014886940453674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f536235806c670800000000000000
+      internalID: 8558537295080585224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 230
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af704f3263ec6f370800000000000000
+      internalID: 8356092890559285242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 230
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa3eca89e63a8e40800000000000000
+      internalID: 5659396258428500726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_21
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 230
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eef40d236ed0d280800000000000000
+      internalID: -9020465536084672796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_22
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 230
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b96d4c8bb05750800000000000000
+      internalID: 6291734890705171306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_23
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 230
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179045f74c806d010800000000000000
+      internalID: 1213166789665753457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 230
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5147158bf1216e110800000000000000
+      internalID: 1289738270733857813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 230
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e8fe0d1c51fe90800000000000000
+      internalID: -6993707466454670778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 230
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1958aaa69ba83b890800000000000000
+      internalID: -7443453230150154863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 198
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55318f19c99ea890800000000000000
+      internalID: -7444844044900813473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e73a6e212b049280800000000000000
+      internalID: -9037586315085203484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 198
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5d48c6da3dd93e0800000000000000
+      internalID: -2045245913952889346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 198
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12300d051a93ac70800000000000000
+      internalID: 8981191497110008350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 198
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b5ce469743d3420800000000000000
+      internalID: 2611301054933654283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 198
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeba8fb28acfb430800000000000000
+      internalID: 3800979273432088284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f78c15ddfe471b0800000000000000
+      internalID: -5659635097858965650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 198
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33845e10e71d12740800000000000000
+      internalID: 5125608190052223027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82abaae259ac569f0800000000000000
+      internalID: -475751443535840728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 198
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf14ec4f0b1a0850800000000000000
+      internalID: 6343912777633243081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 198
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3cc6d24cfdcd560800000000000000
+      internalID: 7339987526375752703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 198
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c0762c4513764e0800000000000000
+      internalID: -1988566470352237515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 198
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3282bfa40607fdd0800000000000000
+      internalID: -2452484854882598338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 198
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173079124e5e4d8b0800000000000000
+      internalID: -5128221307689303183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_41
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 198
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751c53d12baee680800000000000000
+      internalID: -8723847266401774211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_42
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 198
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a5857d08610da0800000000000000
+      internalID: -5980384423155752602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 198
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b2b0f9c88aaac80800000000000000
+      internalID: -8310644840441631943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_44
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 198
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddbe533721988530800000000000000
+      internalID: 3857492678394428892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_45
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 198
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73244ad0bf481c20800000000000000
+      internalID: 3177377158104621951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_46
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 198
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4251eba464aaf8c60800000000000000
+      internalID: 7822658296644244772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_47
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 198
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ff492ce4cc31d20800000000000000
+      internalID: 3248164394908319496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_48
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 198
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce14ab2a74589b040800000000000000
+      internalID: 4663905431838147052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_49
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 198
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f51777846ce9cbe0800000000000000
+      internalID: -1456373087964031498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_50
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 198
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f464e547953ace650800000000000000
+      internalID: 6263560786365269583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 198
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91b3584b366ff370800000000000000
+      internalID: 8358511838225478043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 198
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822172d92b126f5b0800000000000000
+      internalID: -5335039657549295064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 198
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ad056c3f6a1c30800000000000000
+      internalID: 4330896296854266258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd921245fc2d363b0800000000000000
+      internalID: -5520336930314573349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_55
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1faa5d87bdee810800000000000000
+      internalID: 1796614613394715087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987433af459d8db70800000000000000
+      internalID: 8924121620632782729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_57
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6f2c95d6d218170800000000000000
+      internalID: 8178868345962165976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_58
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278d647a43956470800000000000000
+      internalID: 8387271829037614880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae5cae03c77e8e0800000000000000
+      internalID: -1664224987750995288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c9a63b9029e3c50800000000000000
+      internalID: 6646910670407900288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_61
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a75c07912b8781e0800000000000000
+      internalID: -2195633316935477339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_62
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e0b34fb78143e0800000000000000
+      internalID: -2071225098069547118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 166
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c94bb3789290850800000000000000
+      internalID: 6343647210927070232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_64
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524feff6694905f0800000000000000
+      internalID: -790019552897449390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_65
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aedc102d2a4d980800000000000000
+      internalID: -8515001972593661409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_66
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c34106c77aa941f0800000000000000
+      internalID: -1060128805869239360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_67
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ee92aa087657700800000000000000
+      internalID: 537449532848991830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_68
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de73ce35a86a5d990800000000000000
+      internalID: -7361794902823520275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_69
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83c74ab0598e7bb0800000000000000
+      internalID: -4936357161735830645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_70
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d38699007fb2580800000000000000
+      internalID: -8850709060720771734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_71
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0290c7afe8caa9f0800000000000000
+      internalID: -456331480587529718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_72
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d736e1395ac4330800000000000000
+      internalID: 3696511445452946798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_73
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 166
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df96177e7826fb90800000000000000
+      internalID: -7208529629930938410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_74
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 166
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1693a214ed45e70800000000000000
+      internalID: 9103145118285259257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_75
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 166
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2949bc944fc65cd70800000000000000
+      internalID: 9062769621618889874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_76
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 166
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb697d14f5b799d0800000000000000
+      internalID: -2767543385924736068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_77
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 166
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f01ecf897f1540800000000000000
+      internalID: 4980833371439560576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 166
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c78a7d7938f9de0800000000000000
+      internalID: -1324195077242192880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_79
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 166
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45ebe775f74e5090800000000000000
+      internalID: -8043912764832619185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_80
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 166
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af84eee5420aae110800000000000000
+      internalID: 1291020321267009786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71afffad04b9c9d40800000000000000
+      internalID: 5592515540141734423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_82
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c09aa19551ecca0800000000000000
+      internalID: -5994830581539992464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 134
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70addc1bfecf7bc40800000000000000
+      internalID: 5528165174031014407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_84
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888fcd1c61a8cae0800000000000000
+      internalID: -1528794587763603319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_85
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4292a0c500cd82a0800000000000000
+      internalID: -6733514736909774261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_86
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3876d06106ec40c00800000000000000
+      internalID: 866043940444137347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 134
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8624fc599c7e930800000000000000
+      internalID: 4172525225046599898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_88
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9cd88cc453a1a20800000000000000
+      internalID: 3033795902885972470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_89
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce56003cc148b10800000000000000
+      internalID: 1982741359800741014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_90
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b4e031ee5220f0800000000000000
+      internalID: -1143247034117737467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_91
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb1d1a233bb472c0800000000000000
+      internalID: -4434713904628818948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_92
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9d659a0a9b59f80800000000000000
+      internalID: -8100364255069021715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_93
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e4c58f6834c8ce0800000000000000
+      internalID: -1401671137047589307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_94
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8be896611ee79b10800000000000000
+      internalID: 1988319519010515855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_95
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc3dc5d876efc1a0800000000000000
+      internalID: -6786952706766586679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_96
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ececac1a912d4d660800000000000000
+      internalID: 7409778294461746894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_97
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5d9a613030e3e70800000000000000
+      internalID: 9096711609134994940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_98
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde5e6f82eaefe720800000000000000
+      internalID: 2877776945702919903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_99
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53b10a899158ce90800000000000000
+      internalID: -7005259500487593122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_100
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 134
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5bb4b7978195290800000000000000
+      internalID: -7901257161206155801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_101
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76161514a24466d0800000000000000
+      internalID: -2998198179426068867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_102
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54237fb9463b67e0800000000000000
+      internalID: -1771262338067651489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_103
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 134
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062edc7f7fdc9c6e0800000000000000
+      internalID: -1816694509769203104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_104
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 134
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02c3c782682aee30800000000000000
+      internalID: 4533480378551484938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_105
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 134
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fef72f2b4d1060b0800000000000000
+      internalID: -5737553716519108873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_106
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 134
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc68fc5a34f745020800000000000000
+      internalID: 2329626835778766540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_107
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 134
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d07f133257952220800000000000000
+      internalID: 2460539150728655062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd9803b9244a2e50800000000000000
+      internalID: 6785310734475107839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_109
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7624020b03ea610800000000000000
+      internalID: 1634297247795668915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727858f1872d064f0800000000000000
+      internalID: -837438117324159193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_111
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976c4f2d931cf9c10800000000000000
+      internalID: 2062579608455530105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_112
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e12f67a75b34430800000000000000
+      internalID: 3766053250998083191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_113
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 102
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db7a8e3f96878d70800000000000000
+      internalID: 9045346395104115666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_114
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f098a1763acb2d0800000000000000
+      internalID: -3261552366900932825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_115
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 102
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6975e3e5e607b29d0800000000000000
+      internalID: -2798019124150773866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_116
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 102
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548753f107069eba0800000000000000
+      internalID: -6059205788974090171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_117
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 102
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9bc87d3692cb3b0800000000000000
+      internalID: -5495471936504022585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_118
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318c9430e623f4460800000000000000
+      internalID: 7228051375035893779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_119
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 102
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8060774b5050d2af0800000000000000
+      internalID: -419673668214913528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_120
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 102
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9645b93925d1dd800800000000000000
+      internalID: 638698962657432681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_121
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 102
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4d6f2e21b805e40800000000000000
+      internalID: 5643163246328730836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_122
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 102
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1864dc4d33b2390800000000000000
+      internalID: -7842117337065553451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_123
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 102
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d8539af0e914450800000000000000
+      internalID: 6071307562772696425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_124
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 102
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f7a5c1c7ce82dc0800000000000000
+      internalID: -3663418279070105818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_125
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 102
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b6b62d528e16b00800000000000000
+      internalID: 820191856299830164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_126
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 102
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ad4287a998a0d0800000000000000
+      internalID: -3411307773008434880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_127
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 102
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6630cf5f5df0d80800000000000000
+      internalID: -8282165937239267610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_128
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 102
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a954b349631d1b0800000000000000
+      internalID: -5633661648586302849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_129
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 102
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ffc645711111500800000000000000
+      internalID: 365091836692070186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_130
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 102
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02614e6dd86ba4cb0800000000000000
+      internalID: -4878886525990595040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_131
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 102
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f066520df2fdaf9a0800000000000000
+      internalID: -6198396540673497585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 102
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b539409f1271550800000000000000
+      internalID: 6131406771095558955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_133
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 102
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ff3b8aba2729e0800000000000000
+      internalID: -1646300158092117566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_134
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 102
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e998cb726f855e30800000000000000
+      internalID: 4491653856518248932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_135
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 70
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d293116e38ab7f7f0800000000000000
+      internalID: -578788951430448851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_136
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 70
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483ea638028b0c20800000000000000
+      internalID: 3173773334201382990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1a5d4c06f1e2220800000000000000
+      internalID: 2462940546697896399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_138
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1585f9c556e6fdc0800000000000000
+      internalID: -3605441195528583909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_139
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af640d7819e40fd40800000000000000
+      internalID: 5616075122286806778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_140
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e0fdb0ad8b881b0800000000000000
+      internalID: -5654066085522108823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_141
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ae4cc77b73cb890800000000000000
+      internalID: -7441011223111079345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_142
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 70
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eea92f4907a0bb0800000000000000
+      internalID: -4969035453822210459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_143
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1947bfc86f526f190800000000000000
+      internalID: -7929108353081707375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_144
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 70
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac9f8b9f94d79f90800000000000000
+      internalID: -6946850118220931930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_145
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 70
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbe141fa81e31c80800000000000000
+      internalID: -8353084896972772355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_146
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 70
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dff6e12fd740faf0800000000000000
+      internalID: -364712546144944174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_147
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 70
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dbbb247eb926950800000000000000
+      internalID: 6440881834652581184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_148
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 70
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c7019afe0755d30800000000000000
+      internalID: 4419562783969934416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_149
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 70
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e92e87967e37a30800000000000000
+      internalID: 4211964516707245679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_150
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 70
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d00ba78010758da0800000000000000
+      internalID: -5943220916947582759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_151
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 70
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f409d63de0e4f90800000000000000
+      internalID: -6967615272256516334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_152
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 70
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4dbeeea08deb520800000000000000
+      internalID: 2719848766448063710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_153
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 70
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a87a2618d60030800000000000000
+      internalID: 3460690953394233742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_154
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 70
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06556616008f24390800000000000000
+      internalID: -7835427721153456800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_155
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 70
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36947c5c1b92c3960800000000000000
+      internalID: 7582981716089194851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_156
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 70
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0795b230b705f10800000000000000
+      internalID: 2256438666855018707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_157
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf363adb1ce576ba0800000000000000
+      internalID: -6095799384419376133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_158
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 70
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37759fb86b2fe5930800000000000000
+      internalID: 4134008373819037555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 70
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e17871c3fafbfa0800000000000000
+      internalID: -5782710723892797826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_160
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 70
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2239c64031f83f90800000000000000
+      internalID: -6973558833334898130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_161
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 70
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bada661785d398070800000000000000
+      internalID: 8109080054126259627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_162
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 38
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0982867c89964f0800000000000000
+      internalID: -834968273687113531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_163
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb1991abe3db24a0800000000000000
+      internalID: -6616962218508870674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_164
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d8a5244e6b31e60800000000000000
+      internalID: 7931884460211604754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_165
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca20288b54a53d40800000000000000
+      internalID: 5563533627718904519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_166
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3baed9aac886e960800000000000000
+      internalID: 7630937022640597818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_167
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 38
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cda1abb6d0b72b0800000000000000
+      internalID: -5585856156487984085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_168
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc3c970f8008da80800000000000000
+      internalID: -8441996887197991716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_169
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 38
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e593c38411d3bef40800000000000000
+      internalID: 5758763692958955870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_170
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 38
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d704260ba297b20800000000000000
+      internalID: 3132581952863894915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_171
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 38
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fca02b5cec313550800000000000000
+      internalID: 6138754752921513205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_172
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 38
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cae015585fbc640800000000000000
+      internalID: 5101440955866590275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_173
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 38
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8822e4c0149ffe50800000000000000
+      internalID: 6845352758369986698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_174
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 38
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362458ab72394c060800000000000000
+      internalID: 6972859921918673507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_175
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 38
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e151bb680debac470800000000000000
+      internalID: 8415748656518075678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_176
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da880e62c64f8fc20800000000000000
+      internalID: 3240608677238966445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_177
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd24052faa52da80800000000000000
+      internalID: -8443586643079451192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_178
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 38
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11954498f168e610800000000000000
+      internalID: 1650676983698657567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_179
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 38
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598c8c594fad6e7d0800000000000000
+      internalID: -2889381366891755371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_180
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 38
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab83342e2a6e77c0800000000000000
+      internalID: -4071700266687951954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_181
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 38
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c0bcaff1c5340d0800000000000000
+      internalID: -3439804397959574460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_182
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 38
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f365a5868b37da990800000000000000
+      internalID: -7373109779073706433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_183
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 38
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edced989c304f7900800000000000000
+      internalID: 684336297386306782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_184
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 38
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da514d0e4c894c70800000000000000
+      internalID: 8955843600860666578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_185
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 38
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d6a78dad63ea920800000000000000
+      internalID: 3003398315065372051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_186
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 38
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e33d153e1093a20800000000000000
+      internalID: 3042465099107483275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_187
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 38
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5b828aa721cd90800000000000000
+      internalID: -7079333525961614545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_188
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 38
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547cac65c59049030800000000000000
+      internalID: 3500433102571489093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_189
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2e9a8f675965b90800000000000000
+      internalID: -7253445811623042340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_190
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 6
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ab9ef341fc98a10800000000000000
+      internalID: 1912287202674063960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_191
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6ce4c64f1b5b4e0800000000000000
+      internalID: -1966469998930114849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_192
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132c64a7ac758b50800000000000000
+      internalID: 6594814288813892372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_193
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357ac677c04fbb30800000000000000
+      internalID: 4305230994225132854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_194
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1a03b6f66892aa0800000000000000
+      internalID: -6185264800118824500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_195
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 6
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dca627c96221d40800000000000000
+      internalID: 5553543743877598515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_196
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef4972ad30455040800000000000000
+      internalID: 4635682024910835684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_197
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 6
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7954377e2e55e70800000000000000
+      internalID: 9103431705498589129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_198
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4b255ce58cb2df0800000000000000
+      internalID: -203849048752212746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_199
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 6
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb17989394dc4a60800000000000000
+      internalID: 7659730796635691999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_200
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 6
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a084113e549788240800000000000000
+      internalID: 4794215144405157898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_201
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363a0628e30ef29e0800000000000000
+      internalID: -1643848779886976157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_202
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7d383c913ea9310800000000000000
+      internalID: 1412691132927956933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_203
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f17506630ad2e0800000000000000
+      internalID: -2100362539502012747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_204
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5460c5d20967ee0800000000000000
+      internalID: -1263664120939002386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_205
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac611f02b0eaac80800000000000000
+      internalID: -8310583106997228377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_206
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27bfa2c44e2a150800000000000000
+      internalID: 5882515079089058519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_207
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b41f5ec1c6725050800000000000000
+      internalID: 5787819045887612082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_208
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 6
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e215762b94d50d0800000000000000
+      internalID: -3432506310400070023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_209
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 6
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cb95ea30f8db1c0800000000000000
+      internalID: -4486272407818355608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_210
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 6
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e040c64e91da5a10800000000000000
+      internalID: 1899060670612127972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_211
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 6
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f826cfe219bd2e0800000000000000
+      internalID: -2099925170249363706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_212
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 6
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3175e9103c440180800000000000000
+      internalID: -9150104773433396931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_213
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 6
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cfa01f77b7717b0800000000000000
+      internalID: -5253594685229040623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_214
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b08c6d26d1995900800000000000000
+      internalID: 673729968339714232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_dmg_215
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 6
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10b0dc1c26fc7c20800000000000000
+      internalID: 3205707704103383069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

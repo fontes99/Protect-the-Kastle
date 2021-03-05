@@ -1,0 +1,3860 @@
+fileFormatVersion: 2
+guid: 81257c1e617a79b44878b9ac6ed1fb21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6192306448647171129
+    second: ballista_0
+  - first:
+      213: 1307446766394223002
+    second: ballista_1
+  - first:
+      213: 8969842581258761518
+    second: ballista_2
+  - first:
+      213: -8780253474826899348
+    second: ballista_3
+  - first:
+      213: -3929206541620259277
+    second: ballista_4
+  - first:
+      213: -2616803091300574203
+    second: ballista_5
+  - first:
+      213: -7615319002188673680
+    second: ballista_6
+  - first:
+      213: 5767657584527644897
+    second: ballista_7
+  - first:
+      213: 5330005614884662251
+    second: ballista_8
+  - first:
+      213: -7109122736377122360
+    second: ballista_9
+  - first:
+      213: -5048054333003596072
+    second: ballista_10
+  - first:
+      213: 6548211089885236154
+    second: ballista_11
+  - first:
+      213: -3944578133749601413
+    second: ballista_12
+  - first:
+      213: 5502648262315184228
+    second: ballista_13
+  - first:
+      213: -8502943928927307473
+    second: ballista_14
+  - first:
+      213: -6090881173789609005
+    second: ballista_15
+  - first:
+      213: -2382223969234729364
+    second: ballista_16
+  - first:
+      213: 2365947635150710557
+    second: ballista_17
+  - first:
+      213: 2796851677991202542
+    second: ballista_18
+  - first:
+      213: 3814893680834546996
+    second: ballista_19
+  - first:
+      213: -3504824031965248790
+    second: ballista_20
+  - first:
+      213: 3679050884352308398
+    second: ballista_21
+  - first:
+      213: 3648207698152682349
+    second: ballista_22
+  - first:
+      213: -9177840705688753383
+    second: ballista_23
+  - first:
+      213: -6607551829183956280
+    second: ballista_24
+  - first:
+      213: 1711354784363895027
+    second: ballista_25
+  - first:
+      213: -5516460173980085651
+    second: ballista_26
+  - first:
+      213: 1601934502171108744
+    second: ballista_27
+  - first:
+      213: -5837445851347936066
+    second: ballista_28
+  - first:
+      213: -8620003471060754097
+    second: ballista_29
+  - first:
+      213: -2285641362005936525
+    second: ballista_30
+  - first:
+      213: 854459271454138742
+    second: ballista_31
+  - first:
+      213: -118032325234545950
+    second: ballista_32
+  - first:
+      213: 1277841074910212989
+    second: ballista_33
+  - first:
+      213: -7801725848914921907
+    second: ballista_34
+  - first:
+      213: 4538428764645080296
+    second: ballista_35
+  - first:
+      213: 4591062298109069893
+    second: ballista_36
+  - first:
+      213: -4381777344241986019
+    second: ballista_37
+  - first:
+      213: 212378829916207136
+    second: ballista_38
+  - first:
+      213: 870112890670709675
+    second: ballista_39
+  - first:
+      213: -7433617149192884160
+    second: ballista_40
+  - first:
+      213: 3964636650173449122
+    second: ballista_41
+  - first:
+      213: -7819371544716744448
+    second: ballista_42
+  - first:
+      213: 3057019935146933841
+    second: ballista_43
+  - first:
+      213: 5699977827813307491
+    second: ballista_44
+  - first:
+      213: -4318386475498406143
+    second: ballista_45
+  - first:
+      213: 3851417342970738247
+    second: ballista_46
+  - first:
+      213: 8206049818329869714
+    second: ballista_47
+  - first:
+      213: 4935573403734287192
+    second: ballista_48
+  - first:
+      213: -7647742400769589252
+    second: ballista_49
+  - first:
+      213: -8276440403352866062
+    second: ballista_50
+  - first:
+      213: 3396411477551195187
+    second: ballista_51
+  - first:
+      213: 3192819690640040636
+    second: ballista_52
+  - first:
+      213: 4401305187863503726
+    second: ballista_53
+  - first:
+      213: -8703339699410278836
+    second: ballista_54
+  - first:
+      213: 3403381488174094136
+    second: ballista_55
+  - first:
+      213: 3525524236371027164
+    second: ballista_56
+  - first:
+      213: -5987177830229373485
+    second: ballista_57
+  - first:
+      213: -4770637096841581016
+    second: ballista_58
+  - first:
+      213: -4190838344902094644
+    second: ballista_59
+  - first:
+      213: 1223556010599352332
+    second: ballista_60
+  - first:
+      213: 4346301494739920561
+    second: ballista_61
+  - first:
+      213: 8469498073736689832
+    second: ballista_62
+  - first:
+      213: -5102643779334806162
+    second: ballista_63
+  - first:
+      213: -765151208592114597
+    second: ballista_64
+  - first:
+      213: 6041965786096973738
+    second: ballista_65
+  - first:
+      213: 7702828867786501331
+    second: ballista_66
+  - first:
+      213: 7688244299528041772
+    second: ballista_67
+  - first:
+      213: 8716189495992943154
+    second: ballista_68
+  - first:
+      213: 5205485666779030933
+    second: ballista_69
+  - first:
+      213: -8232459963712158750
+    second: ballista_70
+  - first:
+      213: 7250135851986648907
+    second: ballista_71
+  - first:
+      213: 7063234327921328877
+    second: ballista_72
+  - first:
+      213: -2822378842509381832
+    second: ballista_73
+  - first:
+      213: 6337520698784781146
+    second: ballista_74
+  - first:
+      213: 398252172153752071
+    second: ballista_75
+  - first:
+      213: 2763808750234908389
+    second: ballista_76
+  - first:
+      213: -3691834314504492677
+    second: ballista_77
+  - first:
+      213: 1001585651172863903
+    second: ballista_78
+  - first:
+      213: -176253174272404304
+    second: ballista_79
+  - first:
+      213: -119618038463477586
+    second: ballista_80
+  - first:
+      213: 3703677386698973760
+    second: ballista_81
+  - first:
+      213: -217040886300425433
+    second: ballista_82
+  - first:
+      213: -2105931312531890816
+    second: ballista_83
+  - first:
+      213: -3718259728100884757
+    second: ballista_84
+  - first:
+      213: -3679546356120633159
+    second: ballista_85
+  - first:
+      213: 4347519663463059921
+    second: ballista_86
+  - first:
+      213: 1279813957863645902
+    second: ballista_87
+  - first:
+      213: -6268933427306815473
+    second: ballista_88
+  - first:
+      213: -4381686859168375483
+    second: ballista_89
+  - first:
+      213: -2861487754070324819
+    second: ballista_90
+  - first:
+      213: -3367399180807314594
+    second: ballista_91
+  - first:
+      213: -7580247101968623980
+    second: ballista_92
+  - first:
+      213: 4078490133512389481
+    second: ballista_93
+  - first:
+      213: 8667409302051196408
+    second: ballista_94
+  - first:
+      213: 5189299410560498803
+    second: ballista_95
+  - first:
+      213: -1849289865197765532
+    second: ballista_96
+  - first:
+      213: -7532918679687632811
+    second: ballista_97
+  - first:
+      213: 6145200066627390702
+    second: ballista_98
+  - first:
+      213: 6884574796338826649
+    second: ballista_99
+  - first:
+      213: 5933627630010577114
+    second: ballista_100
+  - first:
+      213: -8521515787674586229
+    second: ballista_101
+  - first:
+      213: 6689362655387891530
+    second: ballista_102
+  - first:
+      213: -623485783197717321
+    second: ballista_103
+  - first:
+      213: 900511866149746466
+    second: ballista_104
+  - first:
+      213: -4323447962935247798
+    second: ballista_105
+  - first:
+      213: -4285635970010220477
+    second: ballista_106
+  - first:
+      213: -7921482429797252470
+    second: ballista_107
+  - first:
+      213: -1712490678785763916
+    second: ballista_108
+  - first:
+      213: -2138964542641573367
+    second: ballista_109
+  - first:
+      213: -6303428809776155469
+    second: ballista_110
+  - first:
+      213: -7678497493394996445
+    second: ballista_111
+  - first:
+      213: 4597699245638772219
+    second: ballista_112
+  - first:
+      213: -6614047787748925956
+    second: ballista_113
+  - first:
+      213: 1531743820808791965
+    second: ballista_114
+  - first:
+      213: -844310248930767659
+    second: ballista_115
+  - first:
+      213: 4963702298594873399
+    second: ballista_116
+  - first:
+      213: 2354428766106035281
+    second: ballista_117
+  - first:
+      213: 9188675012491284762
+    second: ballista_118
+  - first:
+      213: 5060682814784147050
+    second: ballista_119
+  - first:
+      213: 7024337631158128362
+    second: ballista_120
+  - first:
+      213: 9199781405008755387
+    second: ballista_121
+  - first:
+      213: -4944026143522067335
+    second: ballista_122
+  - first:
+      213: 7908581306672007264
+    second: ballista_123
+  - first:
+      213: 7902490937116156535
+    second: ballista_124
+  - first:
+      213: -6313680414271121599
+    second: ballista_125
+  - first:
+      213: -3834702085087329547
+    second: ballista_126
+  - first:
+      213: -2535242274668149011
+    second: ballista_127
+  - first:
+      213: -6858180341447514375
+    second: ballista_128
+  - first:
+      213: -137210122792612987
+    second: ballista_129
+  - first:
+      213: -934784972440203667
+    second: ballista_130
+  - first:
+      213: -4937144847567471177
+    second: ballista_131
+  - first:
+      213: -1991509635693324336
+    second: ballista_132
+  - first:
+      213: -7144139962808896577
+    second: ballista_133
+  - first:
+      213: -5512918611208676833
+    second: ballista_134
+  - first:
+      213: 5307032303446936891
+    second: ballista_135
+  - first:
+      213: 6643317820031998017
+    second: ballista_136
+  - first:
+      213: -8825772860858966592
+    second: ballista_137
+  - first:
+      213: 8286011597688445056
+    second: ballista_138
+  - first:
+      213: 5884005901684437741
+    second: ballista_139
+  - first:
+      213: 224568149616637724
+    second: ballista_140
+  - first:
+      213: 3667521780184191502
+    second: ballista_141
+  - first:
+      213: -3664598948034449788
+    second: ballista_142
+  - first:
+      213: -2966516556970741327
+    second: ballista_143
+  - first:
+      213: 4997741479381668500
+    second: ballista_144
+  - first:
+      213: -5053568657276335846
+    second: ballista_145
+  - first:
+      213: -644622367861083701
+    second: ballista_146
+  - first:
+      213: -6282694794996622417
+    second: ballista_147
+  - first:
+      213: -5368000120658032978
+    second: ballista_148
+  - first:
+      213: -3512798697821146160
+    second: ballista_149
+  - first:
+      213: 4441402193456354269
+    second: ballista_150
+  - first:
+      213: 4716779172939173239
+    second: ballista_151
+  - first:
+      213: -2264494848010886488
+    second: ballista_152
+  - first:
+      213: -191955775655776340
+    second: ballista_153
+  - first:
+      213: 7531077558207547591
+    second: ballista_154
+  - first:
+      213: -3389499602317626576
+    second: ballista_155
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ballista_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca9f328ed7fe550800000000000000
+      internalID: 6192306448647171129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9929a928ebf42210800000000000000
+      internalID: 1307446766394223002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25f91bad484b7c70800000000000000
+      internalID: 8969842581258761518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60bd030cf5462680800000000000000
+      internalID: -8780253474826899348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 385
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336559dd777a879c0800000000000000
+      internalID: -3929206541620259277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 383
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c92efe37f3fabd0800000000000000
+      internalID: -2616803091300574203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 381
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d034717b3f05690800000000000000
+      internalID: -7615319002188673680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 381
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e89bd7c306da0050800000000000000
+      internalID: 5767657584527644897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 381
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba90efddbf7f940800000000000000
+      internalID: 5330005614884662251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b6997982575d90800000000000000
+      internalID: -7109122736377122360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8def2727455b1f9b0800000000000000
+      internalID: -5048054333003596072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb02e6da4befda50800000000000000
+      internalID: 6548211089885236154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_12
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 386
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7be41d261b0249c0800000000000000
+      internalID: -3944578133749601413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_13
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4609737b0755d5c40800000000000000
+      internalID: 5502648262315184228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_14
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 386
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2939331c897ff980800000000000000
+      internalID: -8502943928927307473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f723e7d7d87ba0800000000000000
+      internalID: -6090881173789609005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_16
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c75aebe3a0fed0800000000000000
+      internalID: -2382223969234729364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_17
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17655eb6d885d020800000000000000
+      internalID: 2365947635150710557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_18
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 386
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeee1468c960d620800000000000000
+      internalID: 2796851677991202542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 328
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d860e279931f430800000000000000
+      internalID: 3814893680834546996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 328
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2857ebc1d5c5fc0800000000000000
+      internalID: -3504824031965248790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f760794d9e0330800000000000000
+      internalID: 3679050884352308398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 328
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d637c3b829901a230800000000000000
+      internalID: 3648207698152682349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_23
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 327
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b2d442182c1a080800000000000000
+      internalID: -9177840705688753383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 327
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caf182ae924d44a0800000000000000
+      internalID: -6607551829183956280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 326
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8dca6fb14ffb710800000000000000
+      internalID: 1711354784363895027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 326
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62d35003b89173b0800000000000000
+      internalID: -5516460173980085651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_27
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 326
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885e95b31f63b3610800000000000000
+      internalID: 1601934502171108744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_28
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 328
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc14d22de93dfea0800000000000000
+      internalID: -5837445851347936066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 327
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f412ac883889f5880800000000000000
+      internalID: -8620003471060754097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_30
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 327
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37632b58a45c740e0800000000000000
+      internalID: -2285641362005936525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_31
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 327
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67120162e26abdb00800000000000000
+      internalID: 854459271454138742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_32
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 327
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaa16eb93aac5ef0800000000000000
+      internalID: -118032325234545950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_33
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 327
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733d65ffadcbb110800000000000000
+      internalID: 1277841074910212989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_34
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 328
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46717cfca3bab390800000000000000
+      internalID: -7801725848914921907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_35
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 328
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecb5137aecbbfe30800000000000000
+      internalID: 4538428764645080296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_36
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 328
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aca7ce5dab6bf30800000000000000
+      internalID: 4591062298109069893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 328
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d161a9798bcc033c0800000000000000
+      internalID: -4381777344241986019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 277
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f7faab6582f200800000000000000
+      internalID: 212378829916207136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 277
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab7ae26013431c00800000000000000
+      internalID: 870112890670709675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 277
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0403b1a769c76d890800000000000000
+      internalID: -7433617149192884160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_41
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 277
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3451d1708350730800000000000000
+      internalID: 3964636650173449122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 276
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096c5642030c7390800000000000000
+      internalID: -7819371544716744448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_43
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 276
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e78b92f67bc6a20800000000000000
+      internalID: 3057019935146933841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_44
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 273
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3643a6672a36a1f40800000000000000
+      internalID: 5699977827813307491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_45
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 273
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff01d51620214c0800000000000000
+      internalID: -4318386475498406143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_46
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 274
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bc81faabf27530800000000000000
+      internalID: 3851417342970738247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_47
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 277
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29de5be05deb1e170800000000000000
+      internalID: 8206049818329869714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_48
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 276
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853a2746cddae7440800000000000000
+      internalID: 4935573403734287192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_49
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 276
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff7f645ec2cdd590800000000000000
+      internalID: -7647742400769589252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_50
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 276
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f23679bd4d242d80800000000000000
+      internalID: -8276440403352866062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_51
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 276
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334af7e6e3a722f20800000000000000
+      internalID: 3396411477551195187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_52
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 276
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2e874a79c2f4c20800000000000000
+      internalID: 3192819690640040636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_53
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 277
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6320becfb3941d30800000000000000
+      internalID: 4401305187863503726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_54
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 277
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c466819d7a6873780800000000000000
+      internalID: -8703339699410278836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_55
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 277
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837d1cd7e6d3b3f20800000000000000
+      internalID: 3403381488174094136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 277
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4eceb2d9d2de030800000000000000
+      internalID: 3525524236371027164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 226
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd851e1c7549eca0800000000000000
+      internalID: -5987177830229373485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_58
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 226
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ee47a16da4bcdb0800000000000000
+      internalID: -4770637096841581016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_59
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 226
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc05605bab627d5c0800000000000000
+      internalID: -4190838344902094644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_60
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 226
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08819e75b1faf010800000000000000
+      internalID: 1223556010599352332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 226
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e8b88e2a215c30800000000000000
+      internalID: 4346301494739920561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 226
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a83eeeef93b98570800000000000000
+      internalID: 8469498073736689832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 226
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6564658484cf29b0800000000000000
+      internalID: -5102643779334806162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_64
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 227
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cf76c9703a165f0800000000000000
+      internalID: -765151208592114597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_65
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 227
+        width: 65
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7bf59eedf59d350800000000000000
+      internalID: 6041965786096973738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_66
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 226
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce90e3b02f5ea60800000000000000
+      internalID: 7702828867786501331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 226
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c257ac3d47122ba60800000000000000
+      internalID: 7688244299528041772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_68
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 226
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23286af8a2026f870800000000000000
+      internalID: 8716189495992943154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_69
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 227
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59560c352a99d3840800000000000000
+      internalID: 5205485666779030933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_70
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 226
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3cf4bc74d60cd80800000000000000
+      internalID: -8232459963712158750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_71
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 227
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ffcfef428ad9460800000000000000
+      internalID: 7250135851986648907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_72
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 226
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28819d236a50260800000000000000
+      internalID: 7063234327921328877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_73
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 226
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f66a67565e4d8d0800000000000000
+      internalID: -2822378842509381832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_74
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 226
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5390c77f7563f750800000000000000
+      internalID: 6337520698784781146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_75
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 226
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a80449d30e68500800000000000000
+      internalID: 398252172153752071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_76
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63ed04a650b5620800000000000000
+      internalID: 2763808750234908389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_77
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ac5a4048f3ccc0800000000000000
+      internalID: -3691834314504492677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f6946d7d856ed00800000000000000
+      internalID: 1001585651172863903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b455fcfba2dd8df0800000000000000
+      internalID: -176253174272404304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_80
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c7ac1708075ef0800000000000000
+      internalID: -119618038463477586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_81
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 178
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042e6d4d5fa166330800000000000000
+      internalID: 3703677386698973760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_82
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 186
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c35eb67aecfcf0800000000000000
+      internalID: -217040886300425433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_83
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 177
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1a2301aa36c2e0800000000000000
+      internalID: -2105931312531890816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_84
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 177
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef7eb3a76166cc0800000000000000
+      internalID: -3718259728100884757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_85
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 186
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0c8dc8510afecc0800000000000000
+      internalID: -3679546356120633159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_86
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 175
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ddba891e755c30800000000000000
+      internalID: 4347519663463059921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_87
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2ac019300d2c110800000000000000
+      internalID: 1279813957863645902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_88
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f002ec813464009a0800000000000000
+      internalID: -6268933427306815473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_89
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d954a440f1133c0800000000000000
+      internalID: -4381686859168375483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_90
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da902896c04f948d0800000000000000
+      internalID: -2861487754070324819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_91
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e90b49489441d0800000000000000
+      internalID: -3367399180807314594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_92
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496d9713c6d8dc690800000000000000
+      internalID: -7580247101968623980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_93
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96301fbea25b99830800000000000000
+      internalID: 4078490133512389481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_94
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd8dab96d2d84870800000000000000
+      internalID: 8667409302051196408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_95
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3a9fd158140840800000000000000
+      internalID: 5189299410560498803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_96
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 177
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c38226aa00656e0800000000000000
+      internalID: -1849289865197765532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55860573f52b57790800000000000000
+      internalID: -7532918679687632811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_98
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec4805e6e2284550800000000000000
+      internalID: 6145200066627390702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_99
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d026d1d4cea8f50800000000000000
+      internalID: 6884574796338826649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_100
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0393c44ea785250800000000000000
+      internalID: 5933627630010577114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_101
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83f5cf3a8e7db980800000000000000
+      internalID: -8521515787674586229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_102
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 127
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b820b4e365dc50800000000000000
+      internalID: 6689362655387891530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 126
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc6ef9cbfee857f0800000000000000
+      internalID: -623485783197717321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_104
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 135
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22731e965c24f7c00800000000000000
+      internalID: 900511866149746466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_105
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 126
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cbb5cfbf60004c0800000000000000
+      internalID: -4323447962935247798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_106
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 124
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34877e2aacc5684c0800000000000000
+      internalID: -4285635970010220477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_107
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82cf6d23bd311290800000000000000
+      internalID: -7921482429797252470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_108
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b59ec10dc20c38e0800000000000000
+      internalID: -1712490678785763916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_109
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90271b8c41fd052e0800000000000000
+      internalID: -2138964542641573367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_110
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4345ef4e8b588a0800000000000000
+      internalID: -6303428809776155469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_111
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323c671563f707590800000000000000
+      internalID: -7678497493394996445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_112
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf56160ba1f4ecf30800000000000000
+      internalID: 4597699245638772219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_113
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd54cb649e2634a0800000000000000
+      internalID: -6614047787748925956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_114
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972536b3e8d14510800000000000000
+      internalID: 1531743820808791965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_115
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc824c4d486844f0800000000000000
+      internalID: -844310248930767659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_116
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730998611fc92e440800000000000000
+      internalID: 4963702298594873399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_117
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 126
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15426bc0d7c9ca020800000000000000
+      internalID: 2354428766106035281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_118
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 70
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a111d0c7d3bb48f70800000000000000
+      internalID: 9188675012491284762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_119
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e022815382b3640800000000000000
+      internalID: 5060682814784147050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_120
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 70
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec697ebd57b7160800000000000000
+      internalID: 7024337631158128362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_121
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 70
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba7ac002703caf70800000000000000
+      internalID: 9199781405008755387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_122
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 71
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c6f13ca6a436bb0800000000000000
+      internalID: -4944026143522067335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_123
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 73
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ca750ccce0cd60800000000000000
+      internalID: 7908581306672007264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_124
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 69
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7726d8b53a94bad60800000000000000
+      internalID: 7902490937116156535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_125
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 69
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14757025d1d4168a0800000000000000
+      internalID: -6313680414271121599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_126
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 69
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28bee45c668cac0800000000000000
+      internalID: -3834702085087329547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_127
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 70
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de60ade559201dcd0800000000000000
+      internalID: -2535242274668149011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_128
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 71
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6247ec059d2d0a0800000000000000
+      internalID: -6858180341447514375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_129
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 71
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bcb5bce18881ef0800000000000000
+      internalID: -137210122792612987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_130
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 71
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e0450350af603f0800000000000000
+      internalID: -934784972440203667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_131
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd37145becbb7bb0800000000000000
+      internalID: -4937144847567471177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_132
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d75bbda98cbc54e0800000000000000
+      internalID: -1991509635693324336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_133
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 70
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb37a1b1e8aeadc90800000000000000
+      internalID: -7144139962808896577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_134
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 70
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a54475bbd2e73b0800000000000000
+      internalID: -5512918611208676833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_135
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 70
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d4a7a13cd56a940800000000000000
+      internalID: 5307032303446936891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_136
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 70
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14897090c5ec13c50800000000000000
+      internalID: 6643317820031998017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_137
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdd730185e848580800000000000000
+      internalID: -8825772860858966592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 19
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0889cfc95a3ddf270800000000000000
+      internalID: 8286011597688445056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_139
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 19
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2f33a513038a150800000000000000
+      internalID: 5884005901684437741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_140
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 19
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1734c1da83dd1300800000000000000
+      internalID: 224568149616637724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_141
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 19
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0213e1b0a7a5e230800000000000000
+      internalID: 3667521780184191502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_142
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 21
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee2223caab42dc0800000000000000
+      internalID: -3664598948034449788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_143
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 15
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b171a8e0d4d6d0800000000000000
+      internalID: -2966516556970741327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_144
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 15
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49297c5756b8b5540800000000000000
+      internalID: 4997741479381668500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_145
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 15
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a190ff6c41e1ed9b0800000000000000
+      internalID: -5053568657276335846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_146
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 19
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc17e5d2f57dd07f0800000000000000
+      internalID: -644622367861083701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_147
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 19
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabd7000f526fc8a0800000000000000
+      internalID: -6282694794996622417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_148
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 19
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68ce5c4580185b0800000000000000
+      internalID: -5368000120658032978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_149
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 19
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d37ae82238004fc0800000000000000
+      internalID: -3512798697821146160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_150
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 19
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35b9d63c703ad30800000000000000
+      internalID: 4441402193456354269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_151
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 19
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d000fcaad557140800000000000000
+      internalID: 4716779172939173239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_152
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 19
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2eb9cfee5e290e0800000000000000
+      internalID: -2264494848010886488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_153
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 19
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafe3733d39065df0800000000000000
+      internalID: -191955775655776340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_154
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 19
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c880e84323c38860800000000000000
+      internalID: 7531077558207547591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballista_155
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 19
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b78de11416f0d0800000000000000
+      internalID: -3389499602317626576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
