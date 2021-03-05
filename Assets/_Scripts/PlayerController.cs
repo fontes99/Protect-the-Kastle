@@ -39,14 +39,17 @@ public class PlayerController : MonoBehaviour
 
     bool alive;
 
+    GameManager gm;
+
     // ----------------------- 
 
     private void Start(){
 
-        Cursor.visible = false;
         rb = GetComponent<Rigidbody2D>();
         spr = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
+        
+        gm = GameManager.GetInstance();
 
         alive = true;
 
@@ -60,15 +63,25 @@ public class PlayerController : MonoBehaviour
 
     private void Update(){
         
-        if (Input.GetButton("Fire1") && alive){
+        if (Input.GetButton("Fire1") && alive && gm.gameState == GameManager.GameState.GAME){
             Shoot();
         }
+
+        if(Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME) {
+            gm.ChangeState(GameManager.GameState.PAUSE);
+            Cursor.visible = true;
+
+        }
+
+        // anim.SetBool("alive", alive);
+
 
     }
 
     void FixedUpdate()
     {
-       
+        if (gm.gameState != GameManager.GameState.GAME) return;
+
         if (alive) {
             Move();
         }
@@ -115,6 +128,7 @@ public class PlayerController : MonoBehaviour
 
     public void Die()
     {
+        gm.ChangeState(GameManager.GameState.ENDGAME);
         alive = false;
         StartCoroutine("PlsDie");
         soundBehav.PlaySound("die");
@@ -124,7 +138,6 @@ public class PlayerController : MonoBehaviour
         anim.SetTrigger("die");
         gameObject.GetComponent<Collider2D>().enabled = false;
         yield return new WaitForSeconds(2f);
-        // Destroy(gameObject);
     }
 
     void Move(){
@@ -186,6 +199,23 @@ public class PlayerController : MonoBehaviour
             
         }
 
+
+    }
+
+    public void ResetPlayer(){
+
+        transform.position = new Vector3(0, -1.85f, 0);
+        gameObject.GetComponent<Collider2D>().enabled = true;
+        
+        alive = true;
+        anim.SetTrigger("revive");
+
+
+        currentHealth = maxHealth;
+        healthBar.SetMaxHealth(maxHealth);
+
+        currentMana = maxMana;
+        manaBar.SetMaxHealth(currentMana);
 
     }
    

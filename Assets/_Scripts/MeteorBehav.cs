@@ -13,10 +13,13 @@ public class MeteorBehav : MonoBehaviour
     float maxHealth = 60f;
     float mvSpeed = 1.5f;
 
+    GameManager gm;
+
     // ----------------------- 
 
     void Start()
     {
+        gm = GameManager.GetInstance();
         anim = GetComponent<Animator>();    
         alive = true;
     }
@@ -24,6 +27,9 @@ public class MeteorBehav : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (gm.gameState != GameManager.GameState.GAME) return;
+
         if (alive){
             Move();
         }

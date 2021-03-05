@@ -7,11 +7,17 @@ public class HealthBarBehav : MonoBehaviour
 {
 
     public Slider slider;
+    GameManager gm;
 
     // ----------------------- 
 
+    void Start() {
+        gm = GameManager.GetInstance();
+    }
+
     public void SetHealth(int health){
         slider.value = health;
+        gm.hp = health;
     }
 
     public void SetMaxHealth(int health){

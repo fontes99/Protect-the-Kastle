@@ -5,6 +5,8 @@ using UnityEngine;
 public class soldiers : MonoBehaviour
 {
 
+    GameManager gm;
+
     bool alive;
 
     Animator anim;
@@ -21,6 +23,7 @@ public class soldiers : MonoBehaviour
 
     void Start()
     {
+        gm = GameManager.GetInstance();
         anim = GetComponent<Animator>();
         alive = true;
     }
@@ -31,11 +34,14 @@ public class soldiers : MonoBehaviour
     
     void FixedUpdate()
     {
+        if (gm.gameState != GameManager.GameState.GAME) return;
+     
         // StartCoroutine(MoveLogic());
         if (alive) {
             Move();
             anim.SetBool("walking", true);
         }
+    
     }
 
     void Move() {

@@ -5,6 +5,8 @@ using UnityEngine;
 public class DragonBehav : SteerableBehaviour
 {
 
+    GameManager gm;
+
     bool alive;
 
     Animator anim;
@@ -19,6 +21,7 @@ public class DragonBehav : SteerableBehaviour
 
     void Start(){
 
+        gm = GameManager.GetInstance();
         anim = GetComponent<Animator>();
         alive = true;
 
@@ -26,6 +29,8 @@ public class DragonBehav : SteerableBehaviour
 
     private void FixedUpdate()
     {
+        if (gm.gameState == GameManager.GameState.GAME) return;
+        
         if (alive){
             angle += 0.1f;
             Mathf.Clamp(angle, 0.0f, 2.0f * Mathf.PI);
@@ -34,6 +39,7 @@ public class DragonBehav : SteerableBehaviour
 
             Thrust(x, y);
         }
+        
     }
 
 
