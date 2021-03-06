@@ -9,8 +9,6 @@ public class DragonBehav : SteerableBehaviour
 
     Animator anim;
 
-    Rigidbody2D rb;
-
     float maxHealth = 70;
 
     public int dmg = 20;
@@ -22,7 +20,6 @@ public class DragonBehav : SteerableBehaviour
     void Start(){
 
         anim = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
 
         alive = true;
 

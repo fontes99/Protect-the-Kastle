@@ -13,6 +13,7 @@ public class UI_Endgame : MonoBehaviour
     {
         gm = GameManager.GetInstance();
         Cursor.visible = true;
+        Time.timeScale = 0f;
 
         if(gm.hp <= 0)
         {
