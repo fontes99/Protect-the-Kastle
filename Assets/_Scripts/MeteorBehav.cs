@@ -43,11 +43,13 @@ public class MeteorBehav : MonoBehaviour
     }
 
     public IEnumerator ExplodeMeteorThenDestroy() {
+        soundBehav.PlaySound("boom");
         alive = false;
         anim.SetTrigger("explode");
         gameObject.GetComponent<PolygonCollider2D>().enabled = false;
         yield return new WaitForSeconds(2f);
         Destroy(gameObject);
+
     }
 
     void OnTriggerEnter2D(Collider2D col){

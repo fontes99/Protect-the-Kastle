@@ -31,7 +31,6 @@ public class soldiers : MonoBehaviour
     
     void FixedUpdate()
     {
-        // StartCoroutine(MoveLogic());
         if (alive) {
             Move();
             anim.SetBool("walking", true);
@@ -43,19 +42,12 @@ public class soldiers : MonoBehaviour
         transform.position += new Vector3(0,-1,0) * Time.deltaTime * mvSpeed;
     }
 
-    // IEnumerator MoveLogic(){
-
-    //     // andar um pouco numa direção x random e -y
-    //     // ficar idle por 3s
-    //     // repeat
-
-    // }
-
     public void TakeDamage(float dmg_taken)
     {
         maxHealth -= dmg_taken;
         if (maxHealth <= 0) {
             StartCoroutine("Die");
+
         }
     }
 

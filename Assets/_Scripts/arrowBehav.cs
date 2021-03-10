@@ -19,7 +19,7 @@ public class arrowBehav : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D col){
-        if (!col.CompareTag("shot")) Destroy(gameObject);
+        if (col.CompareTag("Kastle") || col.CompareTag("Player")) Destroy(gameObject);
     }
 
     void Update() {

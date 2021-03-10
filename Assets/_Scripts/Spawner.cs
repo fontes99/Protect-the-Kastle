@@ -40,7 +40,7 @@ public class Spawner : MonoBehaviour
 
     public void Reset(){
         foreach (Transform child in transform) {
-            GameObject.Destroy(child.gameObject);
+            if (child.gameObject != null) GameObject.Destroy(child.gameObject);
         }
 
         GameObject.FindGameObjectWithTag("timer").GetComponent<TimerBehav>().Reset();
