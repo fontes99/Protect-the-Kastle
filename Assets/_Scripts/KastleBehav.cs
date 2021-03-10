@@ -45,7 +45,7 @@ public class KastleBehav : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D col){
-        
+
         if (col.CompareTag("Meteor")) {
             MeteorBehav met = GameObject.FindGameObjectWithTag("Meteor").GetComponent<MeteorBehav>();
             StartCoroutine(met.ExplodeMeteorThenDestroy());
@@ -68,13 +68,11 @@ public class KastleBehav : MonoBehaviour
             TakeDamage(arrow.dmg);
             
         }
-
-        if (col.CompareTag("Balista")) {
-            shooterBehav balista = GameObject.FindGameObjectWithTag("Balista").GetComponent<shooterBehav>();
-            StartCoroutine(balista.Die());
-            TakeDamage(balista.dmg);
-            
-        }
     
+    }
+
+    public void Reset(){
+        currentHealth = maxHealth;
+        healthBar.SetHealth(maxHealth);
     }
 }

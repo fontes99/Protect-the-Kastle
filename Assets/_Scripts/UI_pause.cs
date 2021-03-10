@@ -21,5 +21,7 @@ public class UI_pause : MonoBehaviour
     public void Inicio()
     {
         gm.ChangeState(GameManager.GameState.MENU);
+        GameObject.FindGameObjectWithTag("spawner").GetComponent<Spawner>().Reset();
+
     }
 }

@@ -6,7 +6,7 @@ public class TimerBehav : MonoBehaviour
 {
 
     int maxTime = 1200;
-    int currentTime;
+    public int currentTime;
 
     public float TimeDropRate = 10f;
     float nextTimeDrop = 0f;
@@ -39,7 +39,8 @@ public class TimerBehav : MonoBehaviour
 
     }
 
-    void Reset(){
+    public void Reset(){
+        currentTime = maxTime;
         TimeBar.SetHealth(maxTime);
     }
 }

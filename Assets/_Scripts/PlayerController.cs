@@ -24,12 +24,12 @@ public class PlayerController : MonoBehaviour
     float nextShotTime = 0f;
 
     int maxHealth = 100;
-    int currentHealth;
+    public int currentHealth;
 
     public HealthBarBehav healthBar;
 
     public int manaCost = 5;
-    int maxMana = 100;
+    int maxMana = 200;
     int currentMana;
 
     public float manaRegenRate = 10f;
@@ -194,6 +194,13 @@ public class PlayerController : MonoBehaviour
             shooterBehav balista = GameObject.FindGameObjectWithTag("Balista").GetComponent<shooterBehav>();
             StartCoroutine(balista.Die());
             TakeDamage(balista.dmg);
+            
+        }
+
+        if (col.CompareTag("archer")) {
+            shooterBehav archer = GameObject.FindGameObjectWithTag("archer").GetComponent<shooterBehav>();
+            StartCoroutine(archer.Die());
+            TakeDamage(archer.dmg);
             
         }
 

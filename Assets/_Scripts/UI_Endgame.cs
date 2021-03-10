@@ -25,7 +25,10 @@ public class UI_Endgame : MonoBehaviour
         }
     }
 
-    public void Voltar(){
+    public void Voltar()
+    {
         gm.ChangeState(GameManager.GameState.MENU);
+        GameObject.FindGameObjectWithTag("spawner").GetComponent<Spawner>().Reset();
+
     }
 }

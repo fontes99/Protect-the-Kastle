@@ -165,6 +165,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   arrow: {fileID: 1902519706830774220, guid: 08b17bb20c6046847ab3b6ef99f77bef, type: 3}
   firepoint: {fileID: 2597886855962595492}
-  fireRate: 2
+  fireRate: 1
   mvSpeed: 0.7
   dmg: 20

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7733163949327534405}
   - component: {fileID: 7733163949327534404}
   - component: {fileID: 6581396209553744392}
+  - component: {fileID: 55640211}
   m_Layer: 0
   m_Name: soldier
   m_TagString: Enemy
@@ -72,7 +73,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 6246832655069406539, guid: 126ecdf82e51dc748b668fcc1fa9618f,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -134,3 +135,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mvSpeed: 0.4
   dmg: 10
+--- !u!50 &55640211
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7733163949327534400}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0

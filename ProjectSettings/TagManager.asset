@@ -12,6 +12,8 @@ TagManager:
   - Balista
   - archer
   - Kastle
+  - spawner
+  - timer
   layers:
   - Default
   - TransparentFX
