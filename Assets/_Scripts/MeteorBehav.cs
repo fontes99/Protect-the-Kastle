@@ -8,6 +8,7 @@ public class MeteorBehav : MonoBehaviour
     bool alive;
 
     Animator anim;
+
     public int dmg = 40;
 
     float maxHealth = 60f;
