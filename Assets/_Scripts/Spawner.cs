@@ -21,7 +21,11 @@ public class Spawner : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        nextArcherSpawn = Time.time + 1f/archer_spawnRate;
+        nextBalistaSpawn = Time.time + 1f/balista_spawnRate;
+        nextMeteorSpawn = Time.time + 1f/meteor_spawnRate;
+        nextDragonSpawn = Time.time + 1f/dragon_spawnRate;
+        nextSoldierSpawn = Time.time + 1f/soldier_spawnRate;
     }
 
     // Update is called once per frame

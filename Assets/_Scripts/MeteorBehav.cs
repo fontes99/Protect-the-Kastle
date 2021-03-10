@@ -29,9 +29,6 @@ public class MeteorBehav : MonoBehaviour
             Move();
         }
 
-        if (transform.position.y < -2f){
-            StartCoroutine("ExplodeMeteorThenDestroy");
-        }
     }
 
     void Move(){
