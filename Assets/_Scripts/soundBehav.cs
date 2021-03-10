@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class soundBehav : MonoBehaviour
 {
-    public static AudioClip fireball, die, dmg;
+    public static AudioClip fireball, die, dmg, arrow;
     static AudioSource audioSource;
 
     // ----------------------- 
@@ -16,6 +16,7 @@ public class soundBehav : MonoBehaviour
         fireball = Resources.Load<AudioClip>("Sounds/fireball");
         die = Resources.Load<AudioClip>("Sounds/die");
         dmg = Resources.Load<AudioClip>("Sounds/dmg");
+        arrow = Resources.Load<AudioClip>("Sounds/arrow");
 
     }
 
@@ -35,6 +36,9 @@ public class soundBehav : MonoBehaviour
                 break;
             case "dmg":
                 audioSource.PlayOneShot(dmg);
+                break;
+            case "arrow":
+                audioSource.PlayOneShot(arrow);
                 break;
         }
     }

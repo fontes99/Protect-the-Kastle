@@ -47,6 +47,7 @@ public class shooterBehav : MonoBehaviour
             Instantiate(arrow, firepoint.position, firepoint.rotation);
 
             nextShotTime = Time.time + 1f/fireRate;
+            soundBehav.PlaySound("arrow");
         
         }
     }
