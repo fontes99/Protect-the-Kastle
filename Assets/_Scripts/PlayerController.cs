@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using MilkShake;
 
 // Movement logic done by https://www.youtube.com/watch?v=Ehk9fKBwS3Y&t=13s&ab_channel=MuddyWolfGames
 
@@ -40,6 +41,9 @@ public class PlayerController : MonoBehaviour
     bool alive;
 
     GameManager gm;
+
+    public Shaker shaker;
+    public ShakePreset preset;    
 
     // ----------------------- 
 
@@ -121,7 +125,10 @@ public class PlayerController : MonoBehaviour
             Die();
         }
         
-        else soundBehav.PlaySound("dmg");
+        else {
+            shaker.Shake(preset);
+            soundBehav.PlaySound("dmg");
+        }
     }
 
     public void Die()
