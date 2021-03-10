@@ -15,13 +15,13 @@ public class UI_Endgame : MonoBehaviour
         Cursor.visible = true;
         Time.timeScale = 0f;
 
-        if(gm.hp <= 0)
+        if(gm.player_hp <= 0 || gm.kastle_hp <= 0)
         {
             message.text = "GAME OVER";
         }
         else
         {
-            message.text = "YOU WIN! The Kastle is safe!";
+            message.text = "YOU WIN!!\nThe Kastle is safe!";
         }
     }
 

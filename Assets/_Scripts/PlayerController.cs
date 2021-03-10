@@ -74,9 +74,6 @@ public class PlayerController : MonoBehaviour
 
         }
 
-        // anim.SetBool("alive", alive);
-
-
     }
 
     void FixedUpdate()
@@ -115,6 +112,7 @@ public class PlayerController : MonoBehaviour
     public void TakeDamage(int dmg)
     {
         currentHealth -= dmg;
+        gm.player_hp = currentHealth;
         healthBar.SetHealth(currentHealth);
 
         anim.SetTrigger("dmg");

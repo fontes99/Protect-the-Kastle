@@ -9,7 +9,8 @@
     public delegate void ChangeStateDelegate();
     public static ChangeStateDelegate changeStateDelegate;
 
-    public int hp;
+    public int player_hp;
+    public int kastle_hp;
 
     // --------------------------------------------
 

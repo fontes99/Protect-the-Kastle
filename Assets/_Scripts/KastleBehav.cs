@@ -8,7 +8,7 @@ public class KastleBehav : MonoBehaviour
     public HealthBarBehav healthBar;
 
     int maxHealth = 1000;
-    int currentHealth;
+    public int currentHealth;
 
     GameManager gm;
 
@@ -25,15 +25,16 @@ public class KastleBehav : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void TakeDamage(int dmg_taken) {
 
         currentHealth -= dmg_taken;
+        gm.kastle_hp = currentHealth;
         healthBar.SetHealth(currentHealth);
 
-        if (currentHealth <=0 ) LoseGame();
+        if (currentHealth <= 0 ) LoseGame();
 
     }
 
@@ -44,7 +45,6 @@ public class KastleBehav : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D col){
-        Debug.Log(col.tag);
         
         if (col.CompareTag("Meteor")) {
             MeteorBehav met = GameObject.FindGameObjectWithTag("Meteor").GetComponent<MeteorBehav>();
