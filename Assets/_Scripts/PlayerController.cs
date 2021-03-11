@@ -232,9 +232,10 @@ public class PlayerController : MonoBehaviour
         transform.position = new Vector3(0, -1.85f, 0);
         gameObject.GetComponent<Collider2D>().enabled = true;
         
-        alive = true;
-        anim.SetTrigger("revive");
-
+        if (alive == false) {
+            alive = true;
+            anim.SetTrigger("revive");
+        }
 
         currentHealth = maxHealth;
         healthBar.SetMaxHealth(maxHealth);
