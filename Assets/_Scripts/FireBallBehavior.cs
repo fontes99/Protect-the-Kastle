@@ -19,7 +19,7 @@ public class FireBallBehavior : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D col){
-        if (!col.CompareTag("arrow")) Destroy(gameObject);
+        if (!col.CompareTag("arrow") && !col.CompareTag("life-potion")) Destroy(gameObject);
     }
 
     void Update() {

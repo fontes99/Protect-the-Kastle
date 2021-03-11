@@ -17,6 +17,8 @@ public class soldiers : MonoBehaviour
 
     float maxHealth = 50f;
 
+    public GameObject drop;
+
     // ----------------------- 
 
     void Start()
@@ -57,6 +59,7 @@ public class soldiers : MonoBehaviour
         gameObject.GetComponent<Collider2D>().enabled = false;
         yield return new WaitForSeconds(1f);
         Destroy(gameObject);
+        if (Random.Range(-1f, 1f) >= 0) Instantiate(drop, transform.position, Quaternion.identity);
     }
 
     void OnTriggerEnter2D(Collider2D col) {

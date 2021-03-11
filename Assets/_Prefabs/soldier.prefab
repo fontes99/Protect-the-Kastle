@@ -135,6 +135,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mvSpeed: 0.4
   dmg: 10
+  drop: {fileID: 5749195054243788851, guid: 23f44ae560fa74e4694cc6bf707125b8, type: 3}
 --- !u!50 &55640211
 Rigidbody2D:
   serializedVersion: 4

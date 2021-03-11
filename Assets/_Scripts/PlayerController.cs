@@ -45,6 +45,8 @@ public class PlayerController : MonoBehaviour
     public Shaker shaker;
     public ShakePreset preset;    
 
+    public int healing_power = 20;
+
     // ----------------------- 
 
     private void Start(){
@@ -209,6 +211,17 @@ public class PlayerController : MonoBehaviour
             StartCoroutine(archer.Die());
             TakeDamage(archer.dmg);
             
+        }
+
+        if (col.CompareTag("life-potion")) {
+            
+            if (currentHealth+healing_power < maxHealth) currentHealth += healing_power;
+            else currentHealth = maxHealth;
+
+            healthBar.SetHealth(currentHealth);
+
+            Destroy(col.gameObject);
+
         }
 
 

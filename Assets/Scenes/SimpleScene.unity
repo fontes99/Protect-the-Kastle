@@ -14248,6 +14248,7 @@ MonoBehaviour:
   manaBar: {fileID: 891967025}
   shaker: {fileID: 519420030}
   preset: {fileID: 11400000, guid: 49c5d08a56d30d6468e0980f5dbb0e14, type: 2}
+  healing_power: 20
 --- !u!70 &1089724491
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -14638,7 +14639,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1367620397}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.4913673, y: 0.34023774, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
