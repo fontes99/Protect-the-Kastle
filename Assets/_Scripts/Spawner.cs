@@ -46,7 +46,15 @@ public class Spawner : MonoBehaviour
         foreach (GameObject pot in GameObject.FindGameObjectsWithTag("life-potion")){
             Destroy(pot);
         }
-        
+
+        foreach (GameObject arrows in GameObject.FindGameObjectsWithTag("arrow")){
+            Destroy(arrows);
+        }
+
+        foreach (GameObject fireballs in GameObject.FindGameObjectsWithTag("shot")){
+            Destroy(fireballs);
+        }
+
         GameObject.FindGameObjectWithTag("timer").GetComponent<TimerBehav>().Reset();
         GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().ResetPlayer();
         GameObject.FindGameObjectWithTag("Kastle").GetComponent<KastleBehav>().Reset();
