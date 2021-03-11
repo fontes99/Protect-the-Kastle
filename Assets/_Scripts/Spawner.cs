@@ -43,9 +43,14 @@ public class Spawner : MonoBehaviour
             if (child.gameObject != null) GameObject.Destroy(child.gameObject);
         }
 
+        foreach (GameObject pot in GameObject.FindGameObjectsWithTag("life-potion")){
+            Destroy(pot);
+        }
+        
         GameObject.FindGameObjectWithTag("timer").GetComponent<TimerBehav>().Reset();
         GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().ResetPlayer();
         GameObject.FindGameObjectWithTag("Kastle").GetComponent<KastleBehav>().Reset();
+
     }
 
     void SpawnArcher(){
