@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
     public HealthBarBehav healthBar;
 
     public int manaCost = 5;
-    int maxMana = 200;
+    int maxMana = 300;
     int currentMana;
 
     public float manaRegenRate = 10f;

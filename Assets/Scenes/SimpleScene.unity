@@ -14196,7 +14196,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 4
   m_Sprite: {fileID: -7072538551321445459, guid: 50460a12b40d829428b02ceea6b6bd1a,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -14244,7 +14244,7 @@ MonoBehaviour:
   currentHealth: 0
   healthBar: {fileID: 534068225}
   manaCost: 5
-  manaRegenRate: 20
+  manaRegenRate: 30
   manaBar: {fileID: 891967025}
   shaker: {fileID: 519420030}
   preset: {fileID: 11400000, guid: 49c5d08a56d30d6468e0980f5dbb0e14, type: 2}
