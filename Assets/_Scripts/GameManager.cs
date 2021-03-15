@@ -1,6 +1,6 @@
 ﻿public class GameManager {
 
-    public enum GameState { MENU, GAME, PAUSE, ENDGAME };
+    public enum GameState { MENU, GAME, PAUSE, ENDGAME, HELP };
 
     public GameState gameState { get; private set; }
 

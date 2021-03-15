@@ -19,4 +19,16 @@ public class UI_menu : MonoBehaviour
 
     }
 
+    public void Ajuda(){
+
+        gm.ChangeState(GameManager.GameState.HELP);
+
+    }
+
+    public void Voltar(){
+
+        gm.ChangeState(GameManager.GameState.MENU);
+
+    }
+
 }
