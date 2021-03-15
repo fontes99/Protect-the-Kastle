@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 493368249dfcd664c96de9a76db7cf61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  arrow: {fileID: 1902519706830774220, guid: 08b17bb20c6046847ab3b6ef99f77bef, type: 3}
+  arrow: {fileID: 131475882776252721, guid: f05bd1586d5ad6d4baed3d400635da9d, type: 3}
   firepoint: {fileID: 2597886855962595492}
   fireRate: 1
   mvSpeed: 0.7

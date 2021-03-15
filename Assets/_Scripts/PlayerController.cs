@@ -117,6 +117,7 @@ public class PlayerController : MonoBehaviour
 
     public void TakeDamage(int dmg)
     {
+        Debug.Log(dmg);
         currentHealth -= dmg;
         gm.player_hp = currentHealth;
         healthBar.SetHealth(currentHealth);

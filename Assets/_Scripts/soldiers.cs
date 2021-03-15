@@ -59,7 +59,7 @@ public class soldiers : MonoBehaviour
         gameObject.GetComponent<Collider2D>().enabled = false;
         yield return new WaitForSeconds(1f);
         Destroy(gameObject);
-        if (Random.Range(-1f, 1f) >= 0) Instantiate(drop, transform.position, Quaternion.identity);
+        if (Random.Range(0f, 1f) <= 0.20f) Instantiate(drop, transform.position, Quaternion.identity);
     }
 
     void OnTriggerEnter2D(Collider2D col) {
