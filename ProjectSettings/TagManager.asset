@@ -15,6 +15,7 @@ TagManager:
   - spawner
   - timer
   - life-potion
+  - shield
   layers:
   - Default
   - TransparentFX

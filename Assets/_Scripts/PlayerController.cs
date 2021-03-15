@@ -30,8 +30,8 @@ public class PlayerController : MonoBehaviour
     public HealthBarBehav healthBar;
 
     public int manaCost = 5;
-    int maxMana = 300;
-    int currentMana;
+    int maxMana = 500;
+    public int currentMana;
 
     public float manaRegenRate = 10f;
     float nextManaRegen = 0f;
@@ -46,6 +46,8 @@ public class PlayerController : MonoBehaviour
     public ShakePreset preset;    
 
     public int healing_power = 20;
+
+    public bool ShieldIsUp = false;
 
     // ----------------------- 
 
@@ -68,6 +70,10 @@ public class PlayerController : MonoBehaviour
     }
 
     private void Update(){
+
+        if (currentMana < 0) currentMana = 0;
+        manaBar.SetHealth(currentMana);
+
         
         if (Input.GetButton("Fire1") && alive && gm.gameState == GameManager.GameState.GAME){
             Shoot();
@@ -89,8 +95,8 @@ public class PlayerController : MonoBehaviour
             Move();
         }
 
-        if (currentMana < maxMana && Time.time >= nextManaRegen){
-            currentMana += 1;
+        if (currentMana < maxMana && Time.time >= nextManaRegen && !ShieldIsUp){
+            currentMana += 2;
             manaBar.SetHealth(currentMana);
             nextManaRegen = Time.time + 1f/manaRegenRate;
 
@@ -101,7 +107,7 @@ public class PlayerController : MonoBehaviour
     public void Shoot()
     {
 
-        if(Time.time >= nextShotTime && currentMana > 0) {
+        if(Time.time >= nextShotTime && currentMana > manaCost) {
             
             Instantiate(fireball, firePoint.position, firePoint.rotation);
 
@@ -117,7 +123,6 @@ public class PlayerController : MonoBehaviour
 
     public void TakeDamage(int dmg)
     {
-        Debug.Log(dmg);
         currentHealth -= dmg;
         gm.player_hp = currentHealth;
         healthBar.SetHealth(currentHealth);
@@ -180,7 +185,13 @@ public class PlayerController : MonoBehaviour
         if (col.CompareTag("Meteor")) {
             MeteorBehav met = GameObject.FindGameObjectWithTag("Meteor").GetComponent<MeteorBehav>();
             StartCoroutine(met.ExplodeMeteorThenDestroy());
-            TakeDamage(met.dmg);
+            
+            if(ShieldIsUp) {
+                currentMana -= met.dmg;
+                manaBar.SetHealth(currentMana);
+                return;
+            }
+            else TakeDamage(met.dmg);
         }
 
         if (col.CompareTag("Enemy")) {
@@ -196,7 +207,13 @@ public class PlayerController : MonoBehaviour
 
         if (col.CompareTag("arrow")) {
             arrowBehav arrow = GameObject.FindGameObjectWithTag("arrow").GetComponent<arrowBehav>();
-            TakeDamage(arrow.dmg);
+            
+            if(ShieldIsUp) {
+                currentMana -= arrow.dmg;
+                manaBar.SetHealth(currentMana);
+                return;
+            }
+            else TakeDamage(arrow.dmg);
             
         }
 

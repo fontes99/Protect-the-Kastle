@@ -7,10 +7,10 @@ public class Spawner : MonoBehaviour
     public GameObject archer, balista, meteor, dragon, soldier;
 
     // Spawn period in sec
-    float archer_spawnRate = 6f;
-    float balista_spawnRate = 10f; 
-    float meteor_spawnRate = 12f;
-    float dragon_spawnRate = 13f;
+    float archer_spawnRate = 8f;
+    float balista_spawnRate = 12f; 
+    float meteor_spawnRate = 13f;
+    float dragon_spawnRate = 15f;
     float soldier_spawnRate = 4f;
 
     float nextArcherSpawn = 0;
